@@ -25,10 +25,13 @@ So far the intention for this repo is just for learning.
 
 ## Next steps
 
-* Make Express serve a React page.
-** Use of webpack
-** Use of Babel
-* Make Docker bundle the React code.
+* ~ Make Express serve a React page. ~
+
+**  ~ Use of webpack ~
+ 
+** ~ Use of Babel ~
+
+* ~ Make Docker bundle the React code. ~
 * Create a first version of the main page.
 * Run tests by docker.
 * Create tests for React components.
