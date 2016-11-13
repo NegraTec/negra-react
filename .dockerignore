@@ -1,1 +1,7 @@
 node_modules
+.idea
+.git
+.gitignore
+Dockerfile
+npm-debug.log
+README.md

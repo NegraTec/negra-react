@@ -4,12 +4,23 @@
   "description": "This project is a copy from [negratec.github.io](http:////negratec.github.io) but developed with React. So far the intention for this repo is just for learning.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "run-s build server",
+    "server": "node app.js",
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roselma Mendes",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "npm-run-all": "^3.1.0",
+    "webpack": "^1.13.3",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-loader": "^6.2.4",
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
   }
 }

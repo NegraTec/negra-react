@@ -1,10 +1,9 @@
-var express = require('express')
-var app = express()
+var express = require('express');
+var path = require('path');
+var app = express();
 
-app.get('/', function (req, res) {
-  res.send('Negra reaja!')
-})
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.listen(3000, function () {
   console.log('Negra React listening on port 3000!')
-})
+});
