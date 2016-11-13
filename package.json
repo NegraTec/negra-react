@@ -1,0 +1,15 @@
+{
+  "name": "negra-react",
+  "version": "1.0.0",
+  "description": "This project is a copy from [negratec.github.io](http:////negratec.github.io) but developed with React. So far the intention for this repo is just for learning.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roselma Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
