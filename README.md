@@ -26,6 +26,8 @@ So far the intention for this repo is just for learning.
 ## Next steps
 
 * Make Express serve a React page.
+** Use of webpack
+** Use of Babel
 * Make Docker bundle the React code.
 * Create a first version of the main page.
 * Run tests by docker.
@@ -34,3 +36,11 @@ So far the intention for this repo is just for learning.
 * Create tests for redux.
 * Add a logs strategy.
 * Integrate with sumologic and datadog.
+
+## Some interesting reading
+
+https://facebook.github.io/react/docs/installation.html
+
+https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
+
+https://www.codementor.io/tamizhvendan/tutorials/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack-du107r9zr
