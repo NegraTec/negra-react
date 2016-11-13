@@ -22,3 +22,15 @@ So far the intention for this repo is just for learning.
 ## Tests
 
 ...
+
+## Next steps
+
+* Make Express serve a React page.
+* Make Docker bundle the React code.
+* Create a first version of the main page.
+* Run tests by docker.
+* Create tests for React components.
+* Add redux.
+* Create tests for redux.
+* Add a logs strategy.
+* Integrate with sumologic and datadog.
