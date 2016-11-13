@@ -1,0 +1,9 @@
+.Banner
+{
+    background: #CCE8F4 url('https://imgnzn-a.akamaized.net/2016/04/14/14194849361187.jpg');
+    background-position: center center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+}

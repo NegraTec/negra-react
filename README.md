@@ -47,3 +47,5 @@ https://facebook.github.io/react/docs/installation.html
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know
 
 https://www.codementor.io/tamizhvendan/tutorials/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack-du107r9zr
+
+https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.cqt3kxptl
