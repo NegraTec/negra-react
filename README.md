@@ -25,20 +25,20 @@ So far the intention for this repo is just for learning.
 
 ## Next steps
 
-* ~ Make Express serve a React page. ~
+* [x] Make Express serve a React page.
 
-**  ~ Use of webpack ~
+     * [x] Use of webpack
  
-** ~ Use of Babel ~
+     * [x] Use of Babel
 
-* ~ Make Docker bundle the React code. ~
-* Create a first version of the main page.
-* Run tests by docker.
-* Create tests for React components.
-* Add redux.
-* Create tests for redux.
-* Add a logs strategy.
-* Integrate with sumologic and datadog.
+* [x] Make Docker bundle the React code.
+* [ ] Create a first version of the main page.
+* [ ] Run tests by docker.
+* [ ] Create tests for React components.
+* [ ] Add redux.
+* [ ] Create tests for redux.
+* [ ] Add a logs strategy.
+* [ ] Integrate with sumologic and datadog.
 
 ## Some interesting reading
 
